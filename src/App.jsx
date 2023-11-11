@@ -32,6 +32,8 @@ function App() {
       <div className='py-3 text-white text-xl'>
       <li>Chat</li>
       </div>
+      <div></div>
+      <div></div>
     </ul>
    </div>
     
