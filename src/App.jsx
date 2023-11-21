@@ -57,6 +57,7 @@ function App() {
    <div className='w-[80%] h-[100%] bg-[#a8a29e] mx-auto'>
 
    </div>
+   <div></div>
    </div>
   )
 }
